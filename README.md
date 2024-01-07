@@ -24,8 +24,8 @@ The models were able to predict hospital readmissions with moderate accuracy and
 ## Contact
 For any queries regarding this project, please contact Habeel Ansari at habzansari@gmail.com.
 
-<img width="437" alt="Hospital1" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/ba2817c5-9a09-409f-82e6-6a595ff606f7">
-<img width="334" alt="hospital 2" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/383ea1e9-e813-4d96-8587-21ea43cd2f81">
-<img width="344" alt="hospital3" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/d977ac29-df19-40e9-9b78-51045af7886f">
-<img width="518" alt="hospital4" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/e4db9664-5f63-4e9b-a345-c96502bb3929">
+<img width="437" alt="Hospital1" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/ba2817c5-9a09-409f-82e6-6a595ff606f7"><br>
+<img width="334" alt="hospital 2" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/383ea1e9-e813-4d96-8587-21ea43cd2f81"><br>
+<img width="344" alt="hospital3" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/d977ac29-df19-40e9-9b78-51045af7886f"><br>
+<img width="518" alt="hospital4" src="https://github.com/Habeel-Ansari/Hospital-Re-admission-Prediction-with-ML/assets/84073168/e4db9664-5f63-4e9b-a345-c96502bb3929"><br>
 
